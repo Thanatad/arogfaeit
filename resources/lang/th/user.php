@@ -1,0 +1,38 @@
+<?php
+return[
+    //user profile
+    'pro.title' => 'ประวัติผู้ใช้',
+    'pro.about' => 'เกี่ยวกับฉัน',
+    'pro.fullname' => 'ชื่อ-นามสกุล',
+    'pro.gender' => 'เพศ',
+    'pro.birtdate' => 'วันที่เกิด',
+    'pro.selectbirtdate' => 'ระบุวันที่เกิด',
+    'pro.email' => 'อีเมล์',
+    'pro.mobile' => 'เบอร์โทรศัพท์',
+    'pro.province' => 'จังหวัด',
+    'pro.oraddress' => 'ระบุจังหวัดหรือตำบล',
+    'pro.location' => 'ที่อยู่',
+    'pro.permission' => 'บทบาท',
+    'pro.website' => 'เว็บไซต์',
+    'pro.create' => 'สร้าง',
+    'pro.male' => 'ชาย',
+    'pro.female' => 'หญิง',
+    'pro.update' => 'อัพเดท',
+    'pro.cancel' => 'ยกเลิก',
+    //user manage
+    'manage.title' =>'การจัดการผู้ใช้งาน',
+    'manage.config' => 'รายการสมาชิก',
+    'manage.name' => 'ชื่อ',
+    'manage.email' => 'อีเมล์',
+    'manage.role' => 'บทบาท',
+    'manage.account' => 'บัญชี',
+    'manage.province' => 'จังหวัด',
+    'manage.location' => 'ที่อยู่',
+    'manage.tel' => 'เบอร์โทรศัพท์',
+    'manage.action' => 'ฟังก์ชั่น',
+    'manage.edit' => 'แก้ไข',
+    'manage.delete' => 'ลบ',
+    'manage.useraccount' => 'บัญชีผู้ใช้',
+    'manage.save' => 'บันทึกการแก้ไข',
+]
+?>
