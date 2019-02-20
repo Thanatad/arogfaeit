@@ -18,7 +18,7 @@ We designed and developed a representation of Geospatial festivals and events in
 
 * Run `git clone https://github.com/oxideclop/arogfaeit.git projectname`
 * Run `composer install` or `php composer.phar install`
-* Create `.env`in application root `cp .env.example .env`
+* Create `.env` in application root `cp .env.example .env`
 * Create a database and optional inform *.env*
 * Run `php artisan key:generate` to generate key
 * Run `php artisan migrate --seed` to install the database & required data
