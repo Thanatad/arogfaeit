@@ -8,11 +8,11 @@ We designed and developed a representation of Geospatial festivals and events in
 
 ## Demo
 
-* - **[-->](https://arogfaeit.gq/)**
-* Admin: admin@admin.com / admin
-* Approver: approver@approver.com / approver
-* User: user@user.com / user
-* Pswd: 123321
+* **[demo](https://arogfaeit.gq/)**
+* Admin : admin@admin.com / admin
+* Approver : approver@approver.com / approver
+* User : user@user.com / user
+* Pswd : 123321
 
 ## Installation
 
