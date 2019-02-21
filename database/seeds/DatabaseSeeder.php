@@ -9,6 +9,6 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
-        $this->call([users::class,daylists::class,events::class,locations::class,user_events::class,favorites::class]);
+        $this->call([users::class,daylists::class,ddevents::class,locations::class,user_events::class,favorites::class]);
     }
 }
