@@ -17,7 +17,7 @@ class CreateEventsTable extends Migration
             $table->string('short_des', 70);
             $table->text('description');
             $table->integer('budget');
-            $table->string('count_day');
+            $table->integer('count_day');
             $table->string('day');
             $table->date('start');
             $table->date('end');
