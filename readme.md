@@ -9,7 +9,7 @@ We designed and developed a representation of Geospatial festivals and events in
 ## Demo
 
 * **[Live Demo](https://arogfaeit.gq/)**
-* **[Live Demo - mirror](http://arogfaeit.herokuapp.com/)**
+* **[Live Demo - Mirror](http://arogfaeit.herokuapp.com/)**
 * Admin : admin@admin.com / admin
 * Approver : approver@approver.com / approver
 * User : user@user.com / user
