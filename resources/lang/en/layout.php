@@ -23,6 +23,6 @@ return[
  'lay.help.title' => 'Help Center',
   //about
   'lay.about.title' => 'developed by',
-  'lay.about.body' => '-..- / Karnchit Preecha',
+  'lay.about.body' => '-..- / Thanatad Brompunya',
 ]
 ?>
